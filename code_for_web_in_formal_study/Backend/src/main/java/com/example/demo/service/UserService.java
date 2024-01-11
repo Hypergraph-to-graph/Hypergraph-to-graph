@@ -4,5 +4,5 @@ import com.example.demo.pojo.User;
 
 public interface UserService {
     void createUser(User user);
-    int findCurrentId();
+    int findCurrentId(); 
 }
